@@ -10,6 +10,9 @@ Please contact me at alexandre@argeris.net, if you have any questions or remarks
   
 ![image](./variables.png)
 
+### CONTROLING ACCESS TO YOUR BOT
+![image](./domain-restriction.png)
+
 ### EXAMPLES
 GRETTING message:
 ![image](./hi-cmd.png)
