@@ -6,8 +6,7 @@ This repo contains a Python script that create a Webex Teams Bot integrated with
 
 This Bot have a access control build-in. Make sure to modify the 'webex-domain' to get access.
 
-I have also include in this repository a Umbrella icon for your Bot.
-![image](./umbrella.png)
+I have also include in this repository a Umbrella icon for your Bot 'umbrella.png'.
 
 Please contact me at alexandre@argeris.net, if you have any questions or remarks. If you find any bugs, please report them to me, and I will correct them. 
   
