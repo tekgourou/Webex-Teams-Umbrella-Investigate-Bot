@@ -8,7 +8,7 @@ Please contact me at alexandre@argeris.net, if you have any questions or remarks
   
 ### VARIABLES TO MODIFY BEFORE RUNNING THE SCRIPT
   
-![image](./variables.png | width=50)
+![image](./variables.png)
 
 ### EXAMPLES
 GRETTING message:
