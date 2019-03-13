@@ -24,7 +24,7 @@ GRETTING message:
 LISTING available commands:
 ![image](./helpme-cmd.png)
 
-LISTING TOP domain view by World wide by Umbrella:
+LISTING TOP world wide domains view by Umbrella:
 
 ![image](./toplist-cmd.png)
 
