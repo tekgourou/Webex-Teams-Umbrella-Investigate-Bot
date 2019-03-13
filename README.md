@@ -19,3 +19,6 @@ LISTING available commands:
 
 LISTING TOP domain view by World wide by Umbrella:
 ![image](./toplist-cmd.png)
+
+QUERY Umbrella Investigate for a domain:
+![image](./domain-cmd.png)
