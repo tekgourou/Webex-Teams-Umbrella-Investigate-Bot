@@ -10,6 +10,8 @@ A [Cisco Umbrella Investigate API](https://docs.umbrella.com/investigate-api/doc
 
 The Bot has access control built-in. Make sure to modify the `webex-domain` variable to get access.
 
+Make sure to add your webhook using https://developer.webex.com/docs/api/v1/webhooks/create-a-webhook.
+
 This repository contains a Umbrella icon for your Bot, [umbrella.png](./umbrella.png)
 
 Please contact me at <alexandre@argeris.net> if you have any questions or remarks. If you find any bugs, please report them to me, and I will correct them. 
